@@ -1,8 +1,0 @@
-{% load staticfiles %} 
- <footer class="navbar navbar-fixed-bottom">
-    <div class="container">
-	    <div class="span12">
-		    <p>{% blocktrans %}Created By Arnaud Vandecasteele from <a href="http://www.mun.ca/">Memorial University of Newfoundland</a>{% endblocktrans %}</p>
-	    <div>
-    </div>
-</footer>	
