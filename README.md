@@ -1,2 +1,3 @@
-realtime_map
+realtime map
 ============
+OpenLayers and Websockets
